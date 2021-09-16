@@ -152,3 +152,6 @@ def update(id,title,author,year,isbn):
     conn.close()
 
 connect()
+
+    
+    ![Untitled](https://user-images.githubusercontent.com/87749012/133541701-39d075fb-677f-40c2-8e91-ae1568ce728d.png)
